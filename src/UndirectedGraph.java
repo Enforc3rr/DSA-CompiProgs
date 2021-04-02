@@ -40,3 +40,12 @@ public class UndirectedGraph {
         }
     }
 }
+
+/*
+Applications OF BFS
+1) It gives us the shortest path in the unweighted Graph
+2) Crawler in Search Engines
+3) Social Network Searching
+4) P2P Networks
+5) Garbage Collection(Cheney's Algo)
+*/
